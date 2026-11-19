@@ -1,0 +1,26 @@
+{
+  "games": [
+    {
+      "id": "ps1-exemplo-1",
+      "title": "Exemplo PS1 1",
+      "system": "PlayStation",
+      "folder": "psx",
+      "url": "https://www.mediafire.com/file/TROQUE_AQUI_PS1_1/ps1_exemplo1.zip/file",
+      "cover": "",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo de PlayStation. Troque o link pelo seu."
+    },
+    {
+      "id": "ps1-exemplo-2",
+      "title": "Exemplo PS1 2",
+      "system": "PlayStation",
+      "folder": "psx",
+      "url": "https://www.mediafire.com/file/TROQUE_AQUI_PS1_2/ps1_exemplo2.zip/file",
+      "cover": "",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo de PlayStation. Troque o link pelo seu."
+    }
+  ]
+}

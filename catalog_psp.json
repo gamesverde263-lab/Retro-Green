@@ -1,0 +1,26 @@
+{
+  "games": [
+    {
+      "id": "psp-exemplo-1",
+      "title": "Exemplo PSP 1",
+      "system": "PSP",
+      "folder": "psp",
+      "url": "https://www.mediafire.com/file/TROQUE_AQUI_PSP_1/psp_exemplo1.zip/file",
+      "cover": "",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo de PSP. Troque o link pelo seu."
+    },
+    {
+      "id": "psp-exemplo-2",
+      "title": "Exemplo PSP 2",
+      "system": "PSP",
+      "folder": "psp",
+      "url": "https://www.mediafire.com/file/TROQUE_AQUI_PSP_2/psp_exemplo2.zip/file",
+      "cover": "",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo de PSP. Troque o link pelo seu."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "games": [
+    {
+      "id": "nes-exemplo-1",
+      "title": "Exemplo NES 1",
+      "system": "NES",
+      "folder": "nes",
+      "url": "https://www.mediafire.com/file/TROQUE_AQUI_NES_1/nes_exemplo1.zip/file",
+      "cover": "",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo de NES. Troque o link pelo seu."
+    },
+    {
+      "id": "nes-exemplo-2",
+      "title": "Exemplo NES 2",
+      "system": "NES",
+      "folder": "nes",
+      "url": "https://www.mediafire.com/file/TROQUE_AQUI_NES_2/nes_exemplo2.zip/file",
+      "cover": "",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo de NES. Troque o link pelo seu."
+    }
+  ]
+}
