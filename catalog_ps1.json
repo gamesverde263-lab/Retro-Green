@@ -13,11 +13,11 @@
     },
     {
       "id": "ps1-exemplo-2",
-      "title": "Exemplo PS1 2",
+      "title": "Friday Night Funkin",
       "system": "PlayStation",
       "folder": "psx",
-      "url": "https://www.mediafire.com/file/TROQUE_AQUI_PS1_2/ps1_exemplo2.zip/file",
-      "cover": "",
+      "url": "https://archive.org/download/psxfunkin.t-0.12/PSXFunkin.t0.12.zip",
+      "cover": "https://tse4.mm.bing.net/th/id/OIP.0-f6BLOfLVcKJmjBjMQwGgHaEK?r=0&pid=Api&h=220&P=0",
       "extract": "auto",
       "license": "Homebrew / domínio público",
       "description": "Jogo de exemplo de PlayStation. Troque o link pelo seu."
