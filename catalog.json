@@ -1,0 +1,38 @@
+{
+  "name": "Meu catálogo",
+  "games": [
+    {
+      "id": "exemplo-jogo-1",
+      "title": "Exemplo Jogo 1",
+      "system": "NES",
+      "folder": "nes",
+      "url": "https://www.mediafire.com/file/TROQUE_AQUI_1/exemplo1.zip/file",
+      "cover": "",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo. Troque o link do MediaFire pelo seu."
+    },
+    {
+      "id": "exemplo-jogo-2",
+      "title": "Exemplo Jogo 2",
+      "system": "Game Boy Advance",
+      "folder": "gba",
+      "url": "https://www.mediafire.com/file/TROQUE_AQUI_2/exemplo2.rar/file",
+      "cover": "",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo em .rar (precisa do 7-Zip para extrair)."
+    },
+    {
+      "id": "exemplo-jogo-3",
+      "title": "Exemplo Jogo 3",
+      "system": "Mega Drive",
+      "folder": "megadrive",
+      "url": "https://www.mediafire.com/file/TROQUE_AQUI_3/exemplo3.7z/file",
+      "cover": "",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo em .7z (precisa do 7-Zip para extrair)."
+    }
+  ]
+}
