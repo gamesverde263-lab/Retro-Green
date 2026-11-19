@@ -2,25 +2,25 @@
   "games": [
     {
       "id": "snes-exemplo-1",
-      "title": "Exemplo SNES 1",
+      "title": "FIFA Soccer 96",
       "system": "SNES",
       "folder": "snes",
-      "url": "https://www.mediafire.com/file/TROQUE_AQUI_SNES_1/snes_exemplo1.zip/file",
+      "url": "https://archive.org/download/super-nintendo-snes-rom-collection-usa/FIFA%20Soccer%2096%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.zip",
       "cover": "",
       "extract": "auto",
-      "license": "Homebrew / domínio público",
-      "description": "Jogo de exemplo de SNES. Troque o link pelo seu."
+      "license": "",
+      "description": ""
     },
     {
       "id": "snes-exemplo-2",
-      "title": "Exemplo SNES 2",
+      "title": "FIFA Soccer 97",
       "system": "SNES",
       "folder": "snes",
-      "url": "https://www.mediafire.com/file/TROQUE_AQUI_SNES_2/snes_exemplo2.zip/file",
+      "url": "https://archive.org/download/super-nintendo-snes-rom-collection-usa/FIFA%20Soccer%2097%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.zip",
       "cover": "",
       "extract": "auto",
-      "license": "Homebrew / domínio público",
-      "description": "Jogo de exemplo de SNES. Troque o link pelo seu."
+      "license": "",
+      "description": ""
     }
   ]
 }
