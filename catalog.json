@@ -12,8 +12,19 @@
       "license": "",
       "description": ""
     },
-    {
+        {
       "id": "exemplo-jogo-2",
+      "title": "Teenage Mutant Ninja Turtles Shredder's Revenge DLC",
+      "system": "Windows",
+      "folder": "Windows",
+      "url": "https://download844.mediafire.com/qhrxly201tsgqYup4Nhi5yMKmf_AlcL08_mc_lofT9rHpIjPJ7d20S6fZ8gN2sSGDQkDAt14KU8LlBPk8HMN5GRdFVFLZK9ZqmuQZpyncdztVS70uEQPMGQXD7y5ge3IPPSlBOa_jDWvLW8t00kMGTNH4uet_d7Q7jjAw01f8CdWVw/wkufqu09ag2jld5/TMNTSHDLC.zip",
+      "cover": "https://tse3.mm.bing.net/th/id/OIP.oHw-ZzicEDYTzGHX2NbJRAHaEK?r=0&pid=Api&h=220&P=0",
+      "extract": "auto",
+      "license": "Homebrew / domínio público",
+      "description": "Jogo de exemplo em .7z (precisa do 7-Zip para extrair)."
+    },
+    {
+      "id": "exemplo-jogo-3",
       "title": "Plants Vs Zombies 2",
       "system": "Windows",
       "folder": "windows",
@@ -24,7 +35,7 @@
       "description": ""
     },
     {
-      "id": "exemplo-jogo-3",
+      "id": "exemplo-jogo-4",
       "title": "PES 2011",
       "system": "Windows",
       "folder": "Windows",
