@@ -21,6 +21,28 @@
       "extract": "auto",
       "license": "",
       "description": ""
-    }
+    },
+    {
+      "id": "snes-exemplo-3",
+      "title": "Super Mario All-Stars",
+      "system": "SNES",
+      "folder": "snes",
+      "url": "https://archive.org/download/super-nintendo-snes-rom-collection-usa/Super%20Mario%20All-Stars%20%28USA%29.zip",
+      "cover": "https://www.lukiegames.com/assets/images/SNES/snes_super_mario_all-stars_p_anjcy4.jpg",
+      "extract": "auto",
+      "license": "",
+      "description": ""
+    },
+        {
+      "id": "snes-exemplo-3",
+      "title": "Super Mario All-Stars + Super Mario World",
+      "system": "SNES",
+      "folder": "snes",
+      "url": "https://archive.org/download/super-nintendo-snes-rom-collection-usa/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20%28USA%29.zip",
+      "cover": "https://images.launchbox-app.com/3bfea031-7804-439e-9c0c-14e969ea9a25.png",
+      "extract": "auto",
+      "license": "",
+      "description": ""
+    },
   ]
 }
