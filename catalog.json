@@ -14,14 +14,14 @@
     },
     {
       "id": "exemplo-jogo-2",
-      "title": "Exemplo Jogo 2",
-      "system": "Game Boy Advance",
-      "folder": "gba",
-      "url": "https://www.mediafire.com/file/TROQUE_AQUI_2/exemplo2.rar/file",
-      "cover": "",
+      "title": "Plants Vs Zombies 2",
+      "system": "Windows",
+      "folder": "windows",
+      "url": "https://download1351.mediafire.com/t51pr4tx7bfgDOAvObEbAK1HIBkzsLpyAhumwmJSQm0tu5PPTnlIJq5Jczc10V9QypiOX1EU9RVF0C_nR6fLIrGPG_kv5GAykgw9Zll1fdLvUmBb6VTfruNmRyOOdVUMvFiU576epzXhua4W_HX8d8I2UfZ3eLetnpexQH1r0Q0ESQ/yntwuu03xt9mm9y/PVZ2.rar",
+      "cover": "https://tse4.mm.bing.net/th/id/OIP.xgPrZa9yRcdvduaYNo5yegHaEB?r=0&pid=Api&h=220&P=0",
       "extract": "auto",
-      "license": "Homebrew / domínio público",
-      "description": "Jogo de exemplo em .rar (precisa do 7-Zip para extrair)."
+      "license": "",
+      "description": ""
     },
     {
       "id": "exemplo-jogo-3",
