@@ -2,25 +2,25 @@
   "games": [
     {
       "id": "psp-exemplo-1",
-      "title": "Exemplo PSP 1",
+      "title": "FIFA World Cup - Germany 2006",
       "system": "PSP",
       "folder": "psp",
-      "url": "https://www.mediafire.com/file/TROQUE_AQUI_PSP_1/psp_exemplo1.zip/file",
-      "cover": "",
+      "url": "https://archive.org/download/psp-cso-collection/FIFA%20World%20Cup%20-%20Germany%202006%20%28USA%29.cso",
+      "cover": "https://i.ytimg.com/vi/N3hn6031IVY/maxresdefault.jpg",
       "extract": "auto",
-      "license": "Homebrew / domínio público",
-      "description": "Jogo de exemplo de PSP. Troque o link pelo seu."
+      "license": "",
+      "description": ""
     },
     {
       "id": "psp-exemplo-2",
-      "title": "Exemplo PSP 2",
+      "title": "FIFA World Cup - South Africa 2010",
       "system": "PSP",
       "folder": "psp",
-      "url": "https://www.mediafire.com/file/TROQUE_AQUI_PSP_2/psp_exemplo2.zip/file",
-      "cover": "",
+      "url": "https://archive.org/download/psp-cso-collection/FIFA%20World%20Cup%20-%20South%20Africa%202010%20%28USA%29.cso",
+      "cover": "https://www.lukiegames.com/assets/images/psp/PSP_2010_FIFA_WORLD_CUP.jpg",
       "extract": "auto",
-      "license": "Homebrew / domínio público",
-      "description": "Jogo de exemplo de PSP. Troque o link pelo seu."
+      "license": "",
+      "description": ""
     }
   ]
 }
