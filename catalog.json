@@ -25,11 +25,11 @@
     },
     {
       "id": "exemplo-jogo-3",
-      "title": "Exemplo Jogo 3",
-      "system": "Mega Drive",
-      "folder": "megadrive",
-      "url": "https://www.mediafire.com/file/TROQUE_AQUI_3/exemplo3.7z/file",
-      "cover": "",
+      "title": "PES 2011",
+      "system": "Windows",
+      "folder": "Windows",
+      "url": "https://download2440.mediafire.com/4j0u8xliuergc1dfvohmMeXr0qCx0-h3epeDnfE_Utkdij2ICHh4eYis8X891p-TduzC0JAHFilq40t55MA50uRby6HsMwJJkj3vjsuquhew37VFYbA1U_C9Z7zGnXCXwhUMy-ZK4a4VWejPA3Ka7on8zy47vzLlMrw5Qxq8ubSTDQ/mazpi0dkaq60yom/PES+2011+Opti.7z",
+      "cover": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/wii_24/SI_Wii_ProEvolutionSoccer2011_image1600w.jpg",
       "extract": "auto",
       "license": "Homebrew / domínio público",
       "description": "Jogo de exemplo em .7z (precisa do 7-Zip para extrair)."
