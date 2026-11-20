@@ -2,11 +2,11 @@
   "games": [
     {
       "id": "ps1-exemplo-1",
-      "title": "Exemplo PS1 1",
+      "title": "Marvel vs. Capcom - Clash of Super Heroes",
       "system": "PlayStation",
       "folder": "psx",
-      "url": "https://www.mediafire.com/file/TROQUE_AQUI_PS1_1/ps1_exemplo1.zip/file",
-      "cover": "",
+      "url": "https://download1589.mediafire.com/xgh62n9nschgBEF2wjNtIvzgbMLrm_hLqs1GQaS0hgVY6focApLLmYm8x4W1Km85r6TEWEhVRGzrkWLCVraLSueQAUOmhsOBx6F33kd8D5AbN3H7NYywbuhu3IM0vec6GGg4cwQqqYC_JjmM4Lnp9PCFfiARLWP90EjkCUaAnin0sA/myc3f58v8zh66t0/MvsC-CSH.zip",
+      "cover": "https://images.launchbox-app.com//2f08bc9f-15ce-4c60-8369-bbb525e3f4a6.png",
       "extract": "auto",
       "license": "Homebrew / domínio público",
       "description": "Jogo de exemplo de PlayStation. Troque o link pelo seu."
