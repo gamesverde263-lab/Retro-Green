@@ -77,6 +77,17 @@
       "extract": "auto",
       "license": "",
       "description": ""
+    },
+                  {
+      "id": "exemplo-jogo-8",
+      "title": "Amanda The Adventurer",
+      "system": "Windows",
+      "folder": "Windows",
+      "url": "https://download1514.mediafire.com/m65vyq65t8ggN1pftytRovUt9GQrCKw-Hf7sMV7ywSo_LWG5DRZXR0bCFmEBjHo2XD2YHFnELTNpcD5wwedprr3G_nxSW_QlmWTOgQ51gumKtqv7FiP6gRYYtsClzwJY5JeVt1PS-rlJVYaQympvrRMSNY_xfawglCubpIAYSnBQJA/kedftsdre5migkt/ATA.rar",
+      "cover": "https://images.launchbox-app.com//88df8ea4-1fb2-45fa-96e5-82bdc4dbcd9e.jpg",
+      "extract": "auto",
+      "license": "",
+      "description": ""
     }        
   ]
 }
