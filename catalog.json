@@ -55,6 +55,16 @@
       "extract": "auto",
       "license": "",
       "description": ""
-    }
+    },
+          {
+      "id": "exemplo-jogo-6",
+      "title": "Hollow Knight",
+      "system": "Windows",
+      "folder": "Windows",
+      "url": "https://download1346.mediafire.com/xlec9e5y2sqg7EcQ9C_fuJXGJmO1g5rQPhT-P7h6GToVyyxPsLCISjb7aw5bYQ5ShIMfio_9YUU_4CUiLzXKCAg5JHZ4TXjphUC7__OO7eglR8hxtJL6o4IrC0EaUWkUaBhQ-mL5pQ-jO4H57fmAHzl7CrBM32L4tIIEAJPlkr-eGg/rdeliathvphfe8a/HK.rar",
+      "cover": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/01/knight.jpg",
+      "extract": "auto",
+      "license": "",
+      "description": ""
   ]
 }
