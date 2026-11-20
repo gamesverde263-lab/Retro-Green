@@ -21,6 +21,17 @@
       "extract": "auto",
       "license": "Homebrew / domínio público",
       "description": ""
+    },
+        {
+      "id": "ps1-exemplo-3",
+      "title": "Crash Bandicoot",
+      "system": "PlayStation",
+      "folder": "psx",
+      "url": "https://download947.mediafire.com/fj6pisgx8oagon7r9FhJUzQp4VyOsGbU0pgg3C2q0VuIqHGEXxzbmxY30LyT0Rls3EO3S9nnlW5NcgRaQEALahTubG9mVgzbsHk5hCqZNKaOsLmMUdTFDtCm5ko9r3u67aaUVCF1Anrajk74q27ExFIA3KTSv7xiyHy7RVFm7SbVHA/p4v9ojqhonay9h3/cra.zip",
+      "cover": "https://gamesdb-images.launchbox.gg/r2_66542e19-a38e-41d5-9abb-3f19865eb261.png",
+      "extract": "auto",
+      "license": "",
+      "description": ""
     }
   ]
 }
