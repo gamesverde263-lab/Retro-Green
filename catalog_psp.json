@@ -21,6 +21,39 @@
       "extract": "auto",
       "license": "",
       "description": ""
+    },
+        {
+      "id": "psp-exemplo-3",
+      "title": "Dragon Ball Z - Shin Budokai  Another Road",
+      "system": "PSP",
+      "folder": "psp",
+      "url": "https://download1325.mediafire.com/m8ad235t52tgdU2-lddipylrWPlOH9lLigUBHqyhCvx_HnAyLG9kD7UFvh9GZs80bgov36YJveRNHZLxAP_A1UOacIBXhQx5axrWPOEozSaHjIqUAV89P_yfhB416eyCWtAHaGOTpSTkaue48pMg53wh2zUtsEXOzthfjNqiRpg-Ww/gbd951z3muva7zs/DBZ+SBAR.iso",
+      "cover": "https://images.launchbox-app.com//846fc393-7168-4a76-b2b1-33c97c9ea1bc.png",
+      "extract": "auto",
+      "license": "",
+      "description": ""
+    },
+        {
+      "id": "psp-exemplo-4",
+      "title": "God of War: Chains of Olympus",
+      "system": "PSP",
+      "folder": "psp",
+      "url": "https://archive.org/download/psp-cso-collection/FIFA%20World%20Cup%20-%20South%20Africa%202010%20%28USA%29.cso",
+      "cover": "https://images.launchbox-app.com//c2cf5ab8-ca55-480d-af13-588b693e752a.png",
+      "extract": "auto",
+      "license": "",
+      "description": ""
+    },
+        {
+      "id": "psp-exemplo-5",
+      "title": "God of War: Ghost of Sparta",
+      "system": "PSP",
+      "folder": "psp",
+      "url": "https://archive.org/download/psp-cso-collection/FIFA%20World%20Cup%20-%20South%20Africa%202010%20%28USA%29.cso",
+      "cover": "https://images.launchbox-app.com//fd674bf3-77ea-4866-9a6e-005c2e685b28.png",
+      "extract": "auto",
+      "license": "",
+      "description": ""
     }
   ]
 }
