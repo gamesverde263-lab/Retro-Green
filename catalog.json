@@ -44,6 +44,17 @@
       "extract": "auto",
       "license": "",
       "description": ""
+    },
+      {
+      "id": "exemplo-jogo-5",
+      "title": "",
+      "system": "Windows",
+      "folder": "Windows",
+      "url": "https://download843.mediafire.com/fkpo0eods7lgmCDa2q4aJRwBz3-BBrszVeorIcvF_xFm98gKYj5B2moVJjba-ZH7Ld6n897_vt0feACE1Sj2yphYJJ1mZHPhzhVGeIZhhYnAnXLHKTPy04wm1W7w6QrcwnrtqPnoOsKUO-yuzDi7VoVkpfKxsTa8GS8ndHDNqqqHcw/fnfuq0m8xxvt8hb/BLACKPORT.zip",
+      "cover": "https://store-images.s-microsoft.com/image/apps.21784.70793574977529715.aaba2fdf-8d2c-448d-839d-dc168291069b.ca0e24e6-75f7-4a4c-aef7-7a3b630241e2?mode=scale&q=90&h=1080&w=1920",
+      "extract": "auto",
+      "license": "",
+      "description": ""
     }
   ]
 }
