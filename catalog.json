@@ -88,6 +88,17 @@
       "extract": "auto",
       "license": "",
       "description": ""
+    },
+                      {
+      "id": "exemplo-jogo-9",
+      "title": "The Simpsons - Hit & Run",
+      "system": "Windows",
+      "folder": "Windows",
+      "url": "https://download853.mediafire.com/tapcaqrhyjggZFeLW6WpTS4Jq0GSIlSZclAdrHOq3--2rB0H_9ETGDzWDAhF2L0S-iV07iPrl6OrokHpWQBWEZiPwemMb9G-i628i8iq2-4lcfvSgk8sto8VyvCSvq0PWA2epFnD6z9fHoEu9Ug76A_nNhjLPw8HqZxcNPyqxWg5qg/mn772q8ul4ponx6/TS+-+H%26R.rar",
+      "cover": "https://images.launchbox-app.com//03ebc220-017b-4439-bbfe-72006cf0d089.png",
+      "extract": "auto",
+      "license": "",
+      "description": ""
     }        
   ]
 }
