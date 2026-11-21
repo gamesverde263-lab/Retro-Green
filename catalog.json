@@ -99,6 +99,17 @@
       "extract": "auto",
       "license": "",
       "description": ""
+    },
+                          {
+      "id": "exemplo-jogo-10",
+      "title": "The Binding Of Isaac",
+      "system": "Windows",
+      "folder": "Windows",
+      "url": "https://download2272.mediafire.com/plfidkesgzxgdgGCqGjGZ5WN94VpVW_9K9JO_OHGkk0m0VYe-UMZ9ejBROerbrG8Hk3BfnIZFSd56MRtce5N141nxjOjVRvxxvERiR32C8f6K2TetPgFZrN3Ps9UswYJ9aLWGRaBK-kZDN7UoB09P9oyFNL8YXLxSxnCLOfIjzVr7A/dqv7us8r2kpeotv/The+Binding+Of+Isaac.7z",
+      "cover": "https://images.launchbox-app.com//f5e79525-50ed-4389-8e94-bc818eb2159a.png",
+      "extract": "auto",
+      "license": "",
+      "description": ""
     }        
   ]
 }
