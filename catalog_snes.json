@@ -1,48 +1,10 @@
 {
   "games": [
     {
-      "id": "snes-exemplo-1",
-      "title": "FIFA Soccer 96",
+      "mediafire_folder": "https://app.mediafire.com/folder/m6w1l2x4lskxi/snes",
       "system": "SNES",
       "folder": "snes",
-      "url": "https://archive.org/download/super-nintendo-snes-rom-collection-usa/FIFA%20Soccer%2096%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.zip",
-      "cover": "https://www.vgdb.com.br/gf/fotos/games/media_23025/fifa-soccer-96--23025.jpg",
-      "extract": "auto",
-      "license": "",
-      "description": ""
-    },
-    {
-      "id": "snes-exemplo-2",
-      "title": "FIFA Soccer 97",
-      "system": "SNES",
-      "folder": "snes",
-      "url": "https://archive.org/download/super-nintendo-snes-rom-collection-usa/FIFA%20Soccer%2097%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.zip",
-      "cover": "https://www.giantbomb.com/a/uploads/scale_medium/8/87790/2266512-box_fifa97.png",
-      "extract": "auto",
-      "license": "",
-      "description": ""
-    },
-    {
-      "id": "snes-exemplo-3",
-      "title": "Super Mario All-Stars",
-      "system": "SNES",
-      "folder": "snes",
-      "url": "https://archive.org/download/super-nintendo-snes-rom-collection-usa/Super%20Mario%20All-Stars%20%28USA%29.zip",
-      "cover": "https://www.lukiegames.com/assets/images/SNES/snes_super_mario_all-stars_p_anjcy4.jpg",
-      "extract": "auto",
-      "license": "",
-      "description": ""
-    },
-    {
-      "id": "snes-exemplo-4",
-      "title": "Super Mario All-Stars + Super Mario World",
-      "system": "SNES",
-      "folder": "snes",
-      "url": "https://archive.org/download/super-nintendo-snes-rom-collection-usa/Super%20Mario%20All-Stars%20%2B%20Super%20Mario%20World%20%28USA%29.zip",
-      "cover": "https://images.launchbox-app.com/3bfea031-7804-439e-9c0c-14e969ea9a25.png",
-      "extract": "auto",
-      "license": "",
-      "description": ""
+      "license": ""
     }
   ]
 }
